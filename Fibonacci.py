@@ -7,10 +7,3 @@ while True:
         total += b
 
 print (total)    
-
-
-
-
-
-
-
