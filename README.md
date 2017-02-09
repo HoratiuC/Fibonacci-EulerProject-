@@ -1,1 +1,1 @@
-Problems from Project Euler website
+My solutions to Project Euler Problems, in Python
